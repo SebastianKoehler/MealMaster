@@ -1,0 +1,12 @@
+MealMaster.csproj
+MealMaster.csproj.user
+MealMaster.sln
+
+appsettings.Development.json
+appsettings.json
+
+.vs/
+
+Properties/
+bin/
+obj/
